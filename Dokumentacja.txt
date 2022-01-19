@@ -1,0 +1,7 @@
+Program Kalkulator
+pierwszy arugemnt liczbowy określa rodzaj działania:
+1-Dodawanie
+2-Odejmowanie
+3-Mnożenie
+4-Dzielenie
+Pozostałe dwa argumenty to liczby do wykoania działania
